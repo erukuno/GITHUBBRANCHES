@@ -5,3 +5,7 @@
   border: 0;
   content: normal;
 }
+h1 {
+  font-size: large;
+  font-family: "Courier New", Courier, monospace;
+}
